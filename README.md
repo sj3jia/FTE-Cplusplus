@@ -76,7 +76,7 @@ Run the command with your desired CSV file:
 ./build/gbm_calibrator sample_prices.csv
 
 # Using test data
-./build/gbm_calibrator test/testData/happyPath/normal_prices.csv
+./build/gbm_calibrator test/testData/happyPath/real_prices.csv
 ```
 
 #### Input Format
